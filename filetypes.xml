@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="mjml" type="HTML" />
       <mapping pattern=".env.default" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
     </extensionMap>
