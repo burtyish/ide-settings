@@ -1,0 +1,7 @@
+<templateSet group="JavaScript">
+  <template name="rsc" value="const Foo: React.StatelessComponent&lt;{className?: string}&gt; = props =&gt; {&#10;  const { className, children } = props;&#10;  return &lt;div className={classNames(className)}&gt;{children}&lt;/div&gt;;&#10;};&#10;" description="React Stateless Component" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
