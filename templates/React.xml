@@ -1,0 +1,6 @@
+<templateSet group="React">
+  <template name="rsc" value="import React from 'react';&#10;&#10;interface I$TM_FILENAME_BASE$Props {}&#10;&#10;export const $TM_FILENAME_BASE$: React.FunctionComponent&lt;I$TM_FILENAME_BASE$Props&gt; = (props) =&gt; {&#10;    const {} = props;&#10;    &#10;     return (&#10;              &lt;div&gt;&#10;                        $END$&#10;              &lt;/div&gt;&#10;       );&#10;};&#10;" description="Creates a stateless React component without PropTypes and ES6 module system" toReformat="true" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
