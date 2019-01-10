@@ -5,6 +5,7 @@
       <mapping pattern=".env.default" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="ICreativeEngagements" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
