@@ -15,8 +15,8 @@
     <mask>*.json</mask>
     <mask>package.json</mask>
     <mask>*.ts*</mask>
-    <mask>*.scss</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
