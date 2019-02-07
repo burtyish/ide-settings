@@ -8,6 +8,7 @@
       <mapping pattern="Top" type="TypeScript" />
       <mapping pattern="ICreativeEngagements" type="TypeScript" />
       <mapping pattern="TokenRedeeming" type="TypeScript JSX" />
+      <mapping pattern="TokenPack" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
