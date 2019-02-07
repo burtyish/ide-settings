@@ -7,6 +7,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="Top" type="TypeScript" />
       <mapping pattern="ICreativeEngagements" type="TypeScript" />
+      <mapping pattern="TokenRedeeming" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
