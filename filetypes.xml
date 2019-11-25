@@ -4,17 +4,18 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="mjml" type="HTML" />
-      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.default" type="PLAIN_TEXT" />
+      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="vtt" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="ICreativeEngagements" type="TypeScript" />
       <mapping pattern="Top" type="TypeScript" />
-      <mapping pattern="TokenPack" type="TypeScript JSX" />
+      <mapping pattern="ICreativeEngagements" type="TypeScript" />
       <mapping pattern="TokenRedeeming" type="TypeScript JSX" />
+      <mapping pattern="TokenPack" type="TypeScript JSX" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
