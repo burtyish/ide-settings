@@ -3,10 +3,10 @@
     <extensionMap>
       <mapping ext="mjml" type="HTML" />
       <mapping pattern=".env.default" type="PLAIN_TEXT" />
-      <mapping pattern=".gitinclude" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".gitinclude" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="vtt" type="PLAIN_TEXT" />
