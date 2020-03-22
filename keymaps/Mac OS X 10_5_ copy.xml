@@ -15,13 +15,12 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
-  <action id="ReformatWithPrettierAction">
-    <keyboard-shortcut first-keystroke="shift meta alt p" />
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="SavaAs" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="SaveDocument">
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
