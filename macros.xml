@@ -1,0 +1,61 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="OptimizeImports" />
+      <action id="EditorEscape" />
+      <action id="GotoAction" />
+      <typing text-keycode="79:0;80:0;84:0;73:0">opti</typing>
+      <shortuct text="ESCAPE" />
+      <action id="GotoFile" />
+      <typing text-keycode="80:0;82:0;69:0;84:0;73:0;69:0;82:0">pretier</typing>
+      <action id="EditorLineStart" />
+      <typing text-keycode="0:1">&gt;</typing>
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="80:0;82:0;69:0;84:0;84:0;73:0;69:0;82:0">prettier</typing>
+      <shortuct text="ESCAPE" />
+      <action id="GotoAction" />
+      <typing text-keycode="80:0;82:0;69:0;84:0;84:0">prett</typing>
+      <shortuct text="ESCAPE" />
+      <action id="GotoAction" />
+      <typing text-keycode="77:0;65:0;67:0;82:0;79:0;83:0">macros</typing>
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="UP" />
+      <shortuct text="UP" />
+      <shortuct text="DOWN" />
+      <action id="EditorBackSpace" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <action id="GotoAction" />
+      <typing text-keycode="77:0;65:0;67:0;82:0;79:0;83:0">macros</typing>
+      <action id="EditorBackSpace" />
+      <shortuct text="ENTER" />
+      <shortuct text="DOWN" />
+      <shortuct text="ESCAPE" />
+      <action id="GotoAction" />
+      <typing text-keycode="82:0;69:0;67:0;79:0;82:0;68:0">record</typing>
+      <shortuct text="DOWN" />
+      <shortuct text="ESCAPE" />
+    </macro>
+    <macro name="eslint">
+      <action id="GotoAction" />
+      <typing text-keycode="69:0;83:0;76:0;73:0;78:0;84:0">eslint</typing>
+      <shortuct text="ENTER" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+    </macro>
+    <macro name="Save file (and format)">
+      <action id="OptimizeImports" />
+      <action id="ReformatWithPrettierAction" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveDocument" />
+    </macro>
+  </component>
+</application>
