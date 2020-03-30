@@ -57,5 +57,10 @@
       <action id="Javascript.Linters.EsLint.Fix" />
       <action id="SaveDocument" />
     </macro>
+    <macro name="gil">
+      <action id="OptimizeImports" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveDocument" />
+    </macro>
   </component>
 </application>
