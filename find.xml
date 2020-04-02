@@ -13,11 +13,11 @@
     <mask>*.mxml</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
-    <mask>package.json</mask>
     <mask>*.ts*</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.spec.*</mask>
     <mask>*.scss</mask>
+    <mask>package.json</mask>
   </component>
 </application>
