@@ -19,10 +19,10 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
-  <action id="GotoTypeDeclaration">
-    <keyboard-shortcut first-keystroke="shift meta b" />
-    <keyboard-shortcut first-keystroke="shift ctrl b" />
-    <mouse-shortcut keystroke="shift meta button1" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="Macro.optimize, reformat.. and save">
