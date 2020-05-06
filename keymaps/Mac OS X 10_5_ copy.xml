@@ -15,7 +15,7 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
-  <action id="Macro.Save file (and format)">
+  <action id="Macro.optimize, reformat.. and save">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SavaAs" />

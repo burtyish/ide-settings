@@ -51,15 +51,19 @@
       <shortuct text="ENTER" />
       <action id="Javascript.Linters.EsLint.Fix" />
     </macro>
-    <macro name="Save file (and format)">
-      <action id="OptimizeImports" />
+    <macro name="reformat and Save file">
       <action id="ReformatWithPrettierAction" />
-      <action id="Javascript.Linters.EsLint.Fix" />
       <action id="SaveDocument" />
     </macro>
     <macro name="gil">
       <action id="OptimizeImports" />
       <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="SaveDocument" />
+    </macro>
+    <macro name="optimize, reformat.. and save">
+      <action id="OptimizeImports" />
+      <action id="Javascript.Linters.EsLint.Fix" />
+      <action id="ReformatWithPrettierAction" />
       <action id="SaveDocument" />
     </macro>
   </component>
