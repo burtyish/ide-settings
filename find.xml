@@ -5,7 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.ts, *.tsx" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,9 +20,9 @@
     <mask>package.json</mask>
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
-    <mask>*.scss</mask>
     <mask>*spec*</mask>
     <mask>*.json</mask>
     <mask>*.ts, *.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
