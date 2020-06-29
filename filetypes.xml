@@ -16,6 +16,7 @@
       <mapping pattern="ICreativeEngagements" type="TypeScript" />
       <mapping pattern="TokenRedeeming" type="TypeScript JSX" />
       <mapping pattern="TokenPack" type="TypeScript JSX" />
+      <mapping pattern="groupTyping.spec.ts" type="Vue.js" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
