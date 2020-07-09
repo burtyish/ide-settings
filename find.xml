@@ -19,7 +19,7 @@
     <mask>*.ts</mask>
     <mask>*spec*</mask>
     <mask>*.json</mask>
-    <mask>*.ts, *.tsx</mask>
     <mask>*.scss</mask>
+    <mask>*.ts, *.tsx</mask>
   </component>
 </application>
