@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="package.json" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,12 +17,12 @@
     <mask>*.js</mask>
     <mask>*.ts*</mask>
     <mask>*.spec.*</mask>
-    <mask>package.json</mask>
     <mask>*.tsx</mask>
     <mask>*spec*</mask>
     <mask>*.ts, *.tsx</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>package.json</mask>
   </component>
 </application>
