@@ -9,4 +9,26 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="rsf" value="import React from 'react';&#10;&#10;export function $TM_FILENAME_BASE$(props) {&#10; return (&#10;  $1$&#10; );}&#10;&#10;" description="Creates a stateless React component as a named function without PropTypes" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="&quot;&lt;div&gt;&lt;/div&gt;&quot;" alwaysStopAt="true" />
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="rus" value="const [$1$, set$1$] = React.useState($2$);" description="Create useState" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_CLASS" value="false" />
+      <option name="JS_TOP_LEVEL_STATEMENT" value="false" />
+    </context>
+  </template>
+  <template name="rum" value="const $1$ = React.useMemo(() =&gt; {$END$}, []);" description="Create useMemo" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_CLASS" value="false" />
+      <option name="JS_TOP_LEVEL_STATEMENT" value="false" />
+    </context>
+  </template>
 </templateSet>
