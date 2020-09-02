@@ -14,9 +14,10 @@
     <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="rus" value="const [$1$, set$1$] = React.useState($2$);" description="Create useState" toReformat="false" toShortenFQNames="true">
-    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name="rus" value="const [$value$, set$setter$] = React.useState($initialValue$);" description="Create useState" toReformat="true" toShortenFQNames="true">
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="initialValue" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="setter" expression="capitalize(value)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_CLASS" value="false" />
