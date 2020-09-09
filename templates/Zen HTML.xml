@@ -1,4 +1,7 @@
 <templateSet group="Zen HTML">
+  <template name="c" value="&lt;!-- $END$ --&gt;" description="&lt;!-- --&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
   <template name="i" value="&lt;i&gt;$END$&lt;/i&gt;" description="&lt;i&gt;...&lt;/i&gt;" toReformat="false" toShortenFQNames="true">
     <context />
   </template>
