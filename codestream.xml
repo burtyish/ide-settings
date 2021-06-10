@@ -2,5 +2,6 @@
   <component name="CodeStream">
     <option name="createReviewOnCommit" value="false" />
     <option name="firstRun" value="false" />
+    <option name="team" value="" />
   </component>
 </application>
