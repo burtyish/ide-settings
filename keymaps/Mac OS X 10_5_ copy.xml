@@ -25,7 +25,7 @@
     <mouse-shortcut keystroke="Force touch" />
     <mouse-shortcut keystroke="button2" />
   </action>
-  <action id="Macro.optimize, reformat.. and save">
+  <action id="Macro.reformat and Save file">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SavaAs" />
