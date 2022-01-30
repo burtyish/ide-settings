@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping ext="mjml" type="HTML" />
       <mapping pattern=".env.default" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
