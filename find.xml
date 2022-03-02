@@ -30,7 +30,7 @@
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>webpack*</mask>
-    <mask>package*</mask>
     <mask>*.ts</mask>
+    <mask>package*</mask>
   </component>
 </application>
